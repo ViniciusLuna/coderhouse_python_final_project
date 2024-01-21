@@ -9,9 +9,9 @@ O projeto conta com arquivo “api.py” que realiza a conexão na API aberta e 
 No projeto há o arquivo “requirements.txt” onde contém todas as bibliotecas utilizadas neste projeto.
 
 🔧 Instalação
-```
+
 Realizar a instalação das bibliotecas contidas no arquivo requirements.txt e a ativação da “env”;
-```
+
 ### Ordem de execução:
 1. Executar o arquivo banco_de_dados.py que vai criar o schema e tabelas no SQLite. O arquivo dados_api.db será gerado, confirmando a criação do banco de dados;
 2. Executar o arquivo api.py para conectar a API;
