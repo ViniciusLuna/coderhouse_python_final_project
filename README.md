@@ -1,4 +1,4 @@
-# Projeto final Coderhouse, v1
+# Projeto final Coderhouse
 
 ## Objetivo
 Esse projeto tem como objetivo ler dados de uma API aberta (https://restcountries.com/v3.1) que contém dados de diferentes países.
